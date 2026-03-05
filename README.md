@@ -1,3 +1,3 @@
 # Python-Developer
-This is my first Github Repository
-Author Bhagyashree
+This is my first Github Repository.
+Author - Bhagyashree
